@@ -162,3 +162,11 @@ margin-top: 80px;
     font-weight: bold;
     min-height: 50px;
 }
+.footnote
+{
+   font-size: 13px;
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
